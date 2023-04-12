@@ -26,6 +26,10 @@ Perhaps the fact that the product is quite different this might lead to sufficie
 * For B2C the UX is too difficult to achieve
 * For B2B is the business case too difficult to make and tie in with facebook and newsletter subscription?
 
+### Wireframe of Home Page
+
+![Wireframe of the home page](documents/home.png "Home Page")
+
 ## Idea 2 - Removals/Van Hire Business
 
 ### Description
