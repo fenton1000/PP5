@@ -4,7 +4,7 @@
 
 Create a business similar to say Just Eat but for the delivery of retail purchases. This could be B2C or B2B. For B2C the idea would be that customers could effectively turn a click and collect service into a full delivery service by having this business collect the goods that they order on another website. However, having to use two separate websites is a poor UX and integrating the process like for example on just eat is far beyond this project.
 
-B2B would allow small businesses to offer a local same day or next day delivery service that would not otherwise be able to do so. The customer deals directly with the business and pays in full. The business then pays Your Shopping Delivered! for the delivery. There would be a system of pricing to build a grand total based on number of drops and item sizes and weights. A seperate price would apply to same day delivery.
+B2B would allow small businesses to offer a local same day or next day delivery service that they would not otherwise be able to do. The customer deals directly with the business and pays in full. The business then pays Your Shopping Delivered! for the delivery. There would be a system of pricing to build a grand total based on number of drops and item sizes and weights. A seperate price would apply to same day delivery. This would be local delivery restricted to say a paticular postcode or delivery radius. Perhaps options culd be added for longer delivery distances.
 
 Perhaps the business could start with B2B with B2C a potential future growth area.
 
@@ -48,11 +48,17 @@ Create a website for a business that hires out vans for self drive or with drive
 * There is a booking element to this and so it is similar to my last project in that respect.
 * A good UX and use of the inventory model requires the creation of a date picker that shows availability. This seems to be a big task.
 
-Idea 3 - A simple retail goods website.
+## Idea 3 - A simple retail goods website.
 
 ### Description
 
 Create a website using Boutique Ado as a base but adapt sufficiently.
+
+### Custom Models
+
+1. Customize the Products Model to allows customers rate products with the rating provided updating accordingly.
+2. Contact form and model.
+3. Wishlist or blog?
 
 ### Pros
 
