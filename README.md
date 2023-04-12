@@ -71,3 +71,6 @@ Create a website using Boutique Ado as a base but adapt sufficiently.
 * Makes developing custom code more difficult.
 * Harder to make something that looks different.
 
+## Other Ideas
+
+The provision of any type of digital service for example graphic design, engineering drawings, etc. but how to display as different products and how to provide a realistic set-price structure that can be married to a one off payment system?
